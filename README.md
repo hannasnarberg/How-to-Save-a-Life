@@ -1,4 +1,4 @@
-# How-to-Save-a-Life
+# How to Save a Life
 <img
   src="/CPR.jpeg"
   alt="CPR-doll"
