@@ -2,7 +2,7 @@
 <img
   src="/CPR.jpeg"
   alt="CPR-doll"
-  style="width:60px ; height:60px">
+  style="width:300px">
 
 How to Save a Life is an interactive simulation of a life-saving process involving chest compressions, mouth-to-mouth resuscitation and emergency calls. The star of the installation is the CPR doll Tage, who was created using a wide range of sensors and actuators as well as everyday materials found at home (such as an easter egg for the head!).
 
