@@ -13,7 +13,7 @@ The work presented in this repository is one half of a larger project, where the
 ## Components
 
 1. Arduino Uno Rev3
-2. Sound sensor]
+2. Sound sensor
 3. Radio transeiver
 4. Push buttons
 5. Buzzers
@@ -31,9 +31,9 @@ The work presented in this repository is one half of a larger project, where the
 
 ## Software
 
-Arduino IDE
+* Arduino IDE
 
-Proccessing
+* Proccessing
 
 
   
